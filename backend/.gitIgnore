@@ -1,0 +1,17 @@
+
+# Ignore node_modules directory 
+node_modules/
+# Ignore log files
+*.log
+# Ignore environment variable files
+.env
+# Ignore build directories
+package-lock.json
+dist/
+# Ignore Docker files
+config/ 
+# Ignore cache directories
+.cache/
+# Ignore specific configuration files
+config/*.json
+# Ignore specific directories
